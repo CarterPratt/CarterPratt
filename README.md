@@ -18,7 +18,7 @@ I'm documenting my journey as I learn cybersecurity, troubleshooting, automation
   ## Key Repositories
 
   - **Portfolio** - Certifications, notes and learning journey
-  - **IT-:Labs** - Hands-on Labs, troubleshooting logs, and practical exercises
+  - **IT-Labs** - Hands-on Labs, troubleshooting logs, and practical exercises
  
   ---
 
