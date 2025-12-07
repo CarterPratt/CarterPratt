@@ -11,7 +11,7 @@ I'm documenting my journey as I learn cybersecurity, troubleshooting, automation
 - Cybersecurity basics
 - Networking and troubleshooting
 - Powershell scripting
-- Continous improvement and professional growth
+- Continuous improvement and professional growth
 
   ---
 
